@@ -1,106 +1,97 @@
-# Hi, I'm Lea! 👋
+# Hey, I'm Lea!
 
-I'm a **Software Engineering student**, undergraduate teaching assistant, and student mentor.  
-I love coding, learning new technologies, and working on creative projects.
+//&nbsp; I'm a final year **software engineering student**, undergraduate teaching assistant and student mentor.  
 
----
+//&nbsp; I love taking on challenges, experimenting with new ideas and turning cool concepts into reality.
 
-### Personal Details
+
+<br>
+
+### Personal Details 
 {
-    Date of Birth: 27/07/2003
 
-    Place of Birth: Ljubljana, Slovenia
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date of Birth: 27/07/2003 
 
-    Nationality: Serbia, Slovenia (EU)
-}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Place of Birth: Ljubljana, Slovenia 
 
----
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nationality: Serbia, Slovenia (EU) 
 
-### Education
+} 
+
+
+<br>
+
+### Education 
+{ 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mathematical Grammar School**, Belgrade, Serbia 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 5.0/5.0 | 2018-2022 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**BS of Software Engineering**, University of Belgrade, Faculty of Electrical Engineering, Belgrade, Serbia 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 9.2/10.0 | 2022-2026 
+
+} 
+
+ 
+<br>
+
+### Skills 
 {
-    **Mathematical Grammar School**, Belgrade, Serbia
-    
-    GPA: 5.0/5.0 | 2018-2022
 
-    Specialized in Mathematics, Physics, and Programming
+slicice :) 
 
-    **BS in Software Engineering**, University of Belgrade, Faculty of Electrical Engineering, Belgrade, Serbia
+} 
 
-    GPA: 9.21/10.0 | 2022-2026
-}
 
----
-
-### Skills
-{
-    💻 Programming: Java, Dart, Flutter, Python, SQL  
-    🛠 Tools: Git, VS Code, IntelliJ, Android Studio  
-    🧠 Soft Skills: Teaching, Mentoring, Teamwork, Problem-solving
-}
-
----
+<br>
 
 ### Awards
-{
-    🏆 2nd Place – National Physics Competition 2016
+{ 
 
-    🏆 3rd Place – National Mathematics Competition 2016
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd Place in National Physics Competition 2016
 
-    🏆 1st Place – Regional (Belgrade) Programming Competition 2016
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd Place in National Mathematics Competition 2016
 
-    🏆 3rd Place – National Physics Competition 2017
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1st Place in Regional (Belgrade) Programming Competition 2016
 
-    🏆 3rd Place – National Mathematics Competition 2017
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd Place in National Physics Competition 2017
 
-    🏆 2nd Place – National Physics Competition 2018
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd Place in National Mathematics Competition 2017
 
-    🏆 1st Place – Regional (Belgrade) Mathematics Competition 2018
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd Place in National Physics Competition 2018
 
-    🏆 Awarded at Serbian Physics Olympics 2018
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1st Place in Regional (Belgrade) Mathematics Competition 2018
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awarded at Serbian Physics Olympics 2018 
+
+} 
+
+
+<br> 
+
+### Hobbies & Interests 
+{ 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arts & Crafts 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playing Guitar 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Travelling 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Going to Concerts and Gigs 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playing Board Games 
+
 }
 
----
 
-### Languages
+<br>
+
+### Contact 
 {
-    🇷🇸 Serbian (Native)  
 
-    🇬🇧 English (Fluent)  
-
-    🇸🇮 Slovenian (Intermediate)  
-
-    🇩🇪 German (Elementary)
-}
-
----
-
-### Hobbies & Interests
-{
-    🎨 Arts & Crafts  
-
-    🎸 Playing Guitar  
-
-    ✈️ Travelling  
-
-    🎶 Going to Concerts and Gigs  
-
-    🎲 Playing Board Games
-}
-
----
-
-### Projects
-{
-    🔹 **Event Manager App** – Flutter app for browsing and creating events. [Repo](https://github.com/leairt/event-manager)
-
-    🔹 **Chess AI** – Implemented Minimax & Alpha-Beta pruning algorithms in Java. [Repo](https://github.com/leairt/chess-ai)
-}
-
----
-
-### Contact
-{
-    📫 Email: lea@example.com  
-
-    🌐 [LinkedIn](https://linkedin.com/in/leairt) | [Instagram](https://instagram.com/leairt)
+ slicice:)
+ 
 }
