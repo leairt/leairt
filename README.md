@@ -1,12 +1,8 @@
-<img width="1344" height="256" alt="image" src="https://github.com/user-attachments/assets/a1fc267b-7507-4faf-92b7-0e756629c5f1" />
-
-
 # Hey, I'm Lea!
 
 //&nbsp; I'm a final year **software engineering student**, undergraduate teaching assistant and student mentor.  
 
 //&nbsp; I love taking on challenges, experimenting with new ideas and turning cool concepts into reality.
-
 
 <br>
 
