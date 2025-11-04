@@ -40,7 +40,10 @@
 ### Skills 
 {
 
-slicice :) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// **Languages**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// **Tools**
+
 
 } 
 
