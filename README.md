@@ -6,10 +6,10 @@
 
 //&nbsp; I love taking on challenges, experimenting with new ideas and turning cool concepts into reality.
 
+
 <br>
 
 ### Personal Details 
-{
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date of Birth: 27/07/2003 
 
@@ -17,12 +17,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nationality: Serbia, Slovenia (EU) 
 
-}
 
 <br>
 
-### Education 
-{ 
+### Education  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mathematical Grammar School**, Belgrade, Serbia 
 
@@ -32,12 +30,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 9.2/10.0 | 2022-2026 
 
-} 
 
 <br>
 
 ### Skills 
-{
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// **Languages**
 
@@ -54,17 +50,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// **Tools & Servies**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,clion,eclipse,flutter,idea,pycharm,vscode,git,github,gitlab,githubactions,maven,mysql,postman,figma,blender,firebase,mongodb,arduino,linux,mint,sqlite,ubuntu,visualstudio,windows," />
+    <img src="https://skillicons.dev/icons?i=androidstudio,clion,eclipse,flutter,idea,pycharm,vscode,git,github,gitlab,githubactions,maven,mysql,postman,figma,blender,firebase,mongodb,arduino,linux,mint,sqlite,ubuntu,visualstudio,windows" />
 </a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;& more
 
-} 
 
 <br>
 
-### Awards
-{ 
+### Awards 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd Place in National Physics Competition 2016
 
@@ -82,12 +76,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awarded at Serbian Physics Olympics 2018 
 
-} 
 
 <br> 
 
-### Hobbies & Interests 
-{ 
+### Hobbies & Interests  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arts & Crafts 
 
@@ -98,14 +90,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Going to Concerts and Gigs 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Playing Board Games 
-
-}
-
-<br>
-
-### Contact 
-{
-
- slicice:)
- 
-}
