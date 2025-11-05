@@ -1,3 +1,5 @@
+<img width="1344" height="256" alt="image" src="image.png" />
+
 # Hey, I'm Lea!
 
 //&nbsp; I'm a final year **software engineering student**, undergraduate teaching assistant and student mentor.  
