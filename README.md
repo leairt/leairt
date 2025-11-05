@@ -1,4 +1,6 @@
-<img width="1344" alt="gif" src="white-dog.gif" />
+<div align="center">
+  <img width="800" alt="gif" src="white-dog.gif" />
+</div>
 
 # Hey, I'm Lea!
 
