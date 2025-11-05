@@ -9,17 +9,6 @@
 
 <br>
 
-### Personal Details 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date of Birth: 27/07/2003 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Place of Birth: Ljubljana, Slovenia 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nationality: Serbia, Slovenia (EU) 
-
-
-<br>
-
 ### Education  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mathematical Grammar School**, Belgrade, Serbia 
