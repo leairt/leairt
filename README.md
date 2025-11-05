@@ -52,12 +52,58 @@
 
 ### Awards
 
-<table> <tr> <td><img src="gold.png" width="32"/></td> <td>1st Place in Regional (Belgrade) Programming Competition 2016</td> </tr> <tr> <td><img src="silver.png" width="32"/></td> <td>2nd Place in National Physics Competition 2016</td> </tr> <tr> <td><img src="bronze.png" width="32"/></td> <td>3rd Place in National Mathematics Competition 2016</td> </tr> <tr> <td><img src="bronze.png" width="32"/></td> <td>3rd Place in National Physics Competition 2017</td> </tr> <tr> <td><img src="bronze.png" width="32"/></td> <td>3rd Place in National Mathematics Competition 2017</td> </tr> <tr> <td><img src="silver.png" width="32"/></td> <td>2nd Place in National Physics Competition 2018</td> </tr> <tr> <td><img src="gold.png" width="32"/></td> <td>1st Place in Regional (Belgrade) Mathematics Competition 2018</td> </tr> <tr> <td><img src="award.png" width="32"/></td> <td>Awarded at Serbian Physics Olympics 2018</td> </tr> </table>
+<table> 
+    <tr> 
+        <td><img src="gold.png" width="32"/></td> 
+        <td>1st Place in Regional (Belgrade) Programming Competition 2016</td> 
+    </tr> 
+    <tr> 
+        <td><img src="silver.png" width="32"/></td> 
+        <td>2nd Place in National Physics Competition 2016</td> 
+    </tr> 
+    <tr> 
+        <td><img src="bronze.png" width="32"/></td> 
+        <td>3rd Place in National Mathematics Competition 2016</td>
+    </tr> 
+    <tr> 
+        <td><img src="bronze.png" width="32"/></td> 
+        <td>3rd Place in National Physics Competition 2017</td> 
+    </tr> 
+    <tr> 
+        <td><img src="bronze.png" width="32"/></td> 
+        <td>3rd Place in National Mathematics Competition 2017</td> 
+    </tr> 
+    <tr> 
+        <td><img src="silver.png" width="32"/></td> 
+        <td>2nd Place in National Physics Competition 2018</td> 
+    </tr> 
+    <tr> 
+        <td><img src="gold.png" width="32"/></td> 
+        <td>1st Place in Regional (Belgrade) Mathematics Competition 2018</td> 
+    </tr> 
+    <tr> 
+        <td><img src="award.png" width="32"/></td> 
+        <td>Awarded at Serbian Physics Olympics 2018</td> 
+    </tr> 
+</table>
 
 
 <br> 
 
 ### Hobbies & Interests  
+
+<table> 
+    <tr> 
+        <td><img src="gold.png" width="48"/><img src="gold.png" width="48"/><img src="gold.png" width="48"/></td> 
+        <td><img src="gold.png" width="48"/></td>
+    </tr> 
+    <tr> 
+        <td>Arts & Crafts</td> 
+        <td>Arts & Crafts</td> 
+    </tr> 
+</table>
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arts & Crafts 
 
