@@ -94,11 +94,11 @@
 
 <table> 
     <tr> 
-        <td><img src="art1.png" width="48"/>&nbsp;&nbsp;&nbsp;<img src="art2.png" width="48"/>&nbsp;<img src="art3.png" width="48"/></td> 
-        <td><img src="guitar1.png" width="48"/>&nbsp;&nbsp;<img src="guitar2.png" width="48"/>&nbsp;&nbsp;<img src="guitar3.png" width="48"/></td> 
-        <td><img src="travel1.png" width="48"/>&nbsp;&nbsp;<img src="travel2.png" width="48"/>&nbsp;&nbsp;<img src="travel3.png" width="48"/></td> 
-        <td><img src="rock1.png" width="48"/>&nbsp;&nbsp;<img src="rock2.png" width="48"/>&nbsp;&nbsp;<img src="rock3.png" width="48"/></td> 
-        <td><img src="game1.png" width="48"/>&nbsp;&nbsp;<img src="game2.png" width="48"/>&nbsp;&nbsp;<img src="game3.png" width="48"/></td> 
+        <td><img src="art1.png" width="40"/>&nbsp;&nbsp;&nbsp;<img src="art2.png" width="40"/>&nbsp;<img src="art3.png" width="40"/></td> 
+        <td><img src="guitar1.png" width="40"/>&nbsp;&nbsp;<img src="guitar2.png" width="40"/>&nbsp;&nbsp;<img src="guitar3.png" width="40"/></td> 
+        <td><img src="travel1.png" width="40"/>&nbsp;&nbsp;<img src="travel2.png" width="40"/>&nbsp;&nbsp;<img src="travel3.png" width="40"/></td> 
+        <td><img src="rock1.png" width="40"/>&nbsp;&nbsp;<img src="rock2.png" width="40"/>&nbsp;&nbsp;<img src="rock3.png" width="40"/></td> 
+        <td><img src="game1.png" width="40"/>&nbsp;&nbsp;<img src="game2.png" width="40"/>&nbsp;&nbsp;<img src="game3.png" width="40"/></td> 
     </tr> 
     <tr> 
         <td>Arts & Crafts</td> 
