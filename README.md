@@ -11,13 +11,27 @@
 
 ### Education  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Mathematical Grammar School**, Belgrade, Serbia 
+<table>
+  <tr>
+    <td>
+      <img src="school.png" width="40" alt="School Icon">
+    </td>
+    <td>
+      <strong>Mathematical Grammar School</strong>, Belgrade, Serbia<br>
+      GPA: 5.0/5.0 &nbsp;|&nbsp; 2018–2022
+    </td>
+  </tr>
+  <tr>
+    <td width="40">
+      <img src="uni.png" width="28" alt="University Icon">
+    </td>
+    <td>
+      <strong>BS of Software Engineering</strong>, University of Belgrade, Faculty of Electrical Engineering, Belgrade, Serbia<br>
+      GPA: 9.2/10.0 &nbsp;|&nbsp; 2022–2026
+    </td>
+  </tr>
+</table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 5.0/5.0 | 2018-2022 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**BS of Software Engineering**, University of Belgrade, Faculty of Electrical Engineering, Belgrade, Serbia 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA: 9.2/10.0 | 2022-2026 
 
 
 <br>
