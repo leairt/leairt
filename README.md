@@ -26,19 +26,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// **Languages**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,c,cs,cpp,bash,css,dart,html,js,matlab" />
 </a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// **Frameworks & Libraries**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,jquery,vue,fastapi,spring,sklearn,tensorflow,pytorch,unity,regex,latex,nodejs" />
 </a>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// **Tools & Servies**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,clion,eclipse,flutter,idea,pycharm,vscode,git,github,gitlab,githubactions,maven,mysql,postman,figma,blender,firebase,mongodb,arduino,linux,mint,sqlite,ubuntu,visualstudio,windows" />
 </a>
 <br><br>
