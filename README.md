@@ -1,4 +1,4 @@
-<img width="1344" height="256" alt="image" src="image.png" />
+<img width="1344" alt="gif" src="white-dog.gif" />
 
 # Hey, I'm Lea!
 
