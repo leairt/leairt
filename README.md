@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800" alt="gif" src="white-dog.gif" />
+  <img width="600" alt="gif" src="white-dog.gif" />
 </div>
 
 # Hey, I'm Lea!
