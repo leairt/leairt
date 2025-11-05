@@ -50,23 +50,9 @@
 
 <br>
 
-### Awards 
+### Awards
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd Place in National Physics Competition 2016
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd Place in National Mathematics Competition 2016
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1st Place in Regional (Belgrade) Programming Competition 2016
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd Place in National Physics Competition 2017
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3rd Place in National Mathematics Competition 2017
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd Place in National Physics Competition 2018
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1st Place in Regional (Belgrade) Mathematics Competition 2018
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Awarded at Serbian Physics Olympics 2018 
+<table> <tr> <td><img src="gold.png" width="32"/></td> <td>1st Place in Regional (Belgrade) Programming Competition 2016</td> </tr> <tr> <td><img src="silver.png" width="32"/></td> <td>2nd Place in National Physics Competition 2016</td> </tr> <tr> <td><img src="bronze.png" width="32"/></td> <td>3rd Place in National Mathematics Competition 2016</td> </tr> <tr> <td><img src="bronze.png" width="32"/></td> <td>3rd Place in National Physics Competition 2017</td> </tr> <tr> <td><img src="bronze.png" width="32"/></td> <td>3rd Place in National Mathematics Competition 2017</td> </tr> <tr> <td><img src="silver.png" width="32"/></td> <td>2nd Place in National Physics Competition 2018</td> </tr> <tr> <td><img src="gold.png" width="32"/></td> <td>1st Place in Regional (Belgrade) Mathematics Competition 2018</td> </tr> <tr> <td><img src="gold.png" width="32"/></td> <td>Awarded at Serbian Physics Olympics 2018</td> </tr> </table>
 
 
 <br> 
