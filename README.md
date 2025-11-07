@@ -43,21 +43,21 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// **Languages**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,cs,cpp,bash,css,dart,html,js,matlab" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,cs,cpp,bash,css,dart,html,js,matlab&theme=light" />
 </a>
 <br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// **Frameworks & Libraries**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,vue,fastapi,spring,sklearn,tensorflow,pytorch,regex,latex,nodejs" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,vue,fastapi,spring,sklearn,tensorflow,pytorch,regex,latex,nodejs&theme=light" />
 </a>
 <br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// **Tools & Servies**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=clion,eclipse,flutter,idea,pycharm,vscode,git,maven,mysql,postman,figma,firebase,mongodb,arduino,linux,mint,sqlite,ubuntu,visualstudio,windows" />
+    <img src="https://skillicons.dev/icons?i=clion,eclipse,flutter,idea,pycharm,vscode,git,maven,mysql,postman,figma,firebase,mongodb,arduino,linux,mint,sqlite,ubuntu,visualstudio,windows&theme=light" />
 </a>
 <br><br>
 
@@ -131,9 +131,9 @@
 ### GitHub Statistics
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=leairt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leairt&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="50%"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leairt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leairt&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" width="33%"/>
 </div>
 
 
