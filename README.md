@@ -125,9 +125,15 @@
     </tr> 
 </table>
 
+
+<br> 
+
 ### GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=leairt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="47%"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=leairt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="50%"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leairt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="33%"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leairt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="47%"/>
 
