@@ -43,21 +43,21 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// **Languages**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,c,cs,cpp,bash,css,dart,html,js,matlab&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,java,c,cs,cpp,bash,css,dart,html,js,matlab" />
 </a>
 <br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// **Frameworks & Libraries**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,vue,fastapi,spring,sklearn,tensorflow,pytorch,regex,latex,nodejs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,vue,fastapi,spring,sklearn,tensorflow,pytorch,regex,latex,nodejs" />
 </a>
 <br><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;// **Tools & Servies**
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=clion,eclipse,flutter,idea,pycharm,vscode,git,maven,mysql,postman,figma,firebase,mongodb,arduino,linux,mint,sqlite,ubuntu,visualstudio,windows&theme=light" />
+    <img src="https://skillicons.dev/icons?i=clion,eclipse,flutter,idea,pycharm,vscode,git,maven,mysql,postman,figma,firebase,mongodb,arduino,linux,mint,sqlite,ubuntu,visualstudio,windows" />
 </a>
 <br><br>
 
