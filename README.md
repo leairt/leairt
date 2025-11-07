@@ -125,3 +125,9 @@
     </tr> 
 </table>
 
+### GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=leairt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="95%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leairt&layout=compact&langs_count=8&theme=tokyonight&hide=Jupyter%20Notebook&hide_border=true" alt="Top Languages" width="95%"/>
+
