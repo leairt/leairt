@@ -9,6 +9,17 @@
 //&nbsp; I love taking on challenges, experimenting with new ideas and turning cool concepts into reality.
 
 
+<br> 
+
+### GitHub Statistics
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=leairt&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="50%"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leairt&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" width="33%"/>
+</div>
+
+
 <br>
 
 ### Education  
@@ -16,7 +27,7 @@
 <table>
   <tr>
     <td>
-      <img src="mg.png" width="48" alt="School Icon">
+      <img src="logos/mg.png" width="48" alt="School Icon">
     </td>
     <td>
       <strong>Mathematical Grammar School</strong>, Belgrade, Serbia<br>
@@ -25,7 +36,7 @@
   </tr>
   <tr>
     <td>
-      <img src="etf.jpg" width="48" alt="University Icon">
+      <img src="logos/etf.jpg" width="48" alt="University Icon">
     </td>
     <td>
       <strong>BS of Software Engineering</strong>, University of Belgrade, Faculty of Electrical Engineering, Belgrade, Serbia<br>
@@ -70,35 +81,35 @@
 
 <table> 
     <tr> 
-        <td><img src="gold.png" width="32"/></td> 
+        <td><img src="stickers/gold.png" width="32"/></td> 
         <td>1st Place in Regional (Belgrade) Programming Competition 2016</td> 
     </tr> 
     <tr> 
-        <td><img src="silver.png" width="32"/></td> 
+        <td><img src="stickers/silver.png" width="32"/></td> 
         <td>2nd Place in National Physics Competition 2016</td> 
     </tr> 
     <tr> 
-        <td><img src="bronze.png" width="32"/></td> 
+        <td><img src="stickers/bronze.png" width="32"/></td> 
         <td>3rd Place in National Mathematics Competition 2016</td>
     </tr> 
     <tr> 
-        <td><img src="bronze.png" width="32"/></td> 
+        <td><img src="stickers/bronze.png" width="32"/></td> 
         <td>3rd Place in National Physics Competition 2017</td> 
     </tr> 
     <tr> 
-        <td><img src="bronze.png" width="32"/></td> 
+        <td><img src="stickers/bronze.png" width="32"/></td> 
         <td>3rd Place in National Mathematics Competition 2017</td> 
     </tr> 
     <tr> 
-        <td><img src="silver.png" width="32"/></td> 
+        <td><img src="stickers/silver.png" width="32"/></td> 
         <td>2nd Place in National Physics Competition 2018</td> 
     </tr> 
     <tr> 
-        <td><img src="gold.png" width="32"/></td> 
+        <td><img src="stickers/gold.png" width="32"/></td> 
         <td>1st Place in Regional (Belgrade) Mathematics Competition 2018</td> 
     </tr> 
     <tr> 
-        <td><img src="award.png" width="32"/></td> 
+        <td><img src="stickers/award.png" width="32"/></td> 
         <td>Awarded at Serbian Physics Olympics 2018</td> 
     </tr> 
 </table>
@@ -110,11 +121,11 @@
 
 <table> 
     <tr> 
-        <td><img src="art1.png" width="40"/>&nbsp;&nbsp;&nbsp;<img src="art2.png" width="40"/>&nbsp;<img src="art3.png" width="40"/></td> 
-        <td><img src="guitar1.png" width="40"/>&nbsp;&nbsp;<img src="guitar2.png" width="40"/>&nbsp;&nbsp;<img src="guitar3.png" width="40"/></td> 
-        <td><img src="travel1.png" width="40"/>&nbsp;&nbsp;<img src="travel2.png" width="40"/>&nbsp;&nbsp;<img src="travel3.png" width="40"/></td> 
-        <td><img src="rock1.png" width="40"/>&nbsp;&nbsp;<img src="rock2.png" width="40"/>&nbsp;&nbsp;<img src="rock3.png" width="40"/></td> 
-        <td><img src="game1.png" width="40"/>&nbsp;&nbsp;<img src="game2.png" width="40"/>&nbsp;&nbsp;<img src="game3.png" width="40"/></td> 
+        <td><img src="stickers/art1.png" width="40"/>&nbsp;&nbsp;&nbsp;<img src="stickers/art2.png" width="40"/>&nbsp;<img src="stickers/art3.png" width="40"/></td> 
+        <td><img src="stickers/guitar1.png" width="40"/>&nbsp;&nbsp;<img src="stickers/guitar2.png" width="40"/>&nbsp;&nbsp;<img src="stickers/guitar3.png" width="40"/></td> 
+        <td><img src="stickers/travel1.png" width="40"/>&nbsp;&nbsp;<img src="stickers/travel2.png" width="40"/>&nbsp;&nbsp;<img src="stickers/travel3.png" width="40"/></td> 
+        <td><img src="stickers/rock1.png" width="40"/>&nbsp;&nbsp;<img src="stickers/rock2.png" width="40"/>&nbsp;&nbsp;<img src="stickers/rock3.png" width="40"/></td> 
+        <td><img src="stickers/game1.png" width="40"/>&nbsp;&nbsp;<img src="stickers/game2.png" width="40"/>&nbsp;&nbsp;<img src="stickers/game3.png" width="40"/></td> 
     </tr> 
     <tr> 
         <td>Arts & Crafts</td> 
@@ -124,16 +135,4 @@
         <td>Playing Board Games</td> 
     </tr> 
 </table>
-
-
-<br> 
-
-### GitHub Statistics
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=leairt&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="50%"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leairt&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" width="33%"/>
-</div>
-
 
