@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>
-      <img src="logos/etf.jpg" width="48" alt="University Icon">
+      <img src="logos/etf.png" width="48" alt="University Icon">
     </td>
     <td>
       <strong>BS of Software Engineering</strong>, University of Belgrade, Faculty of Electrical Engineering, Belgrade, Serbia<br>
