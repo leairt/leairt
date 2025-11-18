@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1244" alt="gif" src="dino-gif.gif" />
+  <img width="1244" src="image.png" />
 </div>
 
 # Hey, I'm Lea!
