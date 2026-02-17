@@ -14,9 +14,10 @@
 ### GitHub Statistics
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=leairt&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="50%"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leairt&layout=compact&langs_count=8&theme=default&hide_border=true" alt="Top Languages" width="33%"/>
+<img src="https://github-readme-stats-pi-gules-76.vercel.app/api?username=leairt&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" width="32%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leairt&hide_border=true" alt="leairt's Streak" width="40%"/>
+<img src="https://github-readme-stats-pi-gules-76.vercel.app/api/top-langs/?username=bgdj11&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" width="25%"/>
+
 </div>
 
 
