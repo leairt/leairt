@@ -4,9 +4,9 @@
 
 # Hey, I'm Lea!
 
-I'm a fourth and final-year **Software Engineering student** at the School of Electrical Engineering, University of Belgrade, an undergraduate teaching assistant, and a student mentor.
+I'm currently pursuing a Master's degree in **Visual Computing and Artificial Intelligence** at École Polytechnique in Paris.
 
-I plan to pursue a Master's degree focused on **Artificial Intelligence, Machine Learning, Data Science, and Visual Computing**.
+I'm a recent software engineering graduate from Serbia, where I worked as an undergraduate teaching assistant and volunteered as a student mentor.
 
 I enjoy taking on challenges, exploring new ideas, and turning creative concepts into real-world software solutions.
 
@@ -40,7 +40,7 @@ I enjoy taking on challenges, exploring new ideas, and turning creative concepts
     </td>
     <td>
       <strong>BSc in Software Engineering</strong>, University of Belgrade, Faculty of Electrical Engineering<br>
-      GPA: <strong>9.2 / 10.0</strong> &nbsp;|&nbsp; 2022 – 2026
+      GPA: <strong>9.0 / 10.0</strong> &nbsp;|&nbsp; 2022 – 2026
     </td>
   </tr>
 </table>
